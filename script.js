@@ -28,4 +28,4 @@ console.log(ispalindrome("hello"))
 //3.reverse the string
 let A="hello";
 let reversed = A.split("").reverse().join("");
-console.log(reversed);
+console.log(reversed);uhff
